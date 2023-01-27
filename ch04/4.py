@@ -42,26 +42,3 @@ elif (score >= 60 and score < 70):
   print("D ")
 else:
   print("E ")
-
-
-
-"""
-- 巢狀結構:
-
-  if condition a1:
-    #<若 condition a1 為真, 則執行此區塊>
-    if condition b:
-      #<若 condition b 為真, 則執行此區塊>
-    else:
-      #<若 condition b 為假, 則執行此區塊>
-    
-  elif condition a2:
-    #<若 condition a2 為真, 則執行此區塊>
-    if condition c:
-      #<若 condition c 為真, 則執行此區塊>
-    else:
-      #<若 condition c 為假, 則執行此區塊>
-      
-  else:
-    #<若 a1 & a2 皆為假, 則執行此區塊>
-"""
