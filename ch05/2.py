@@ -14,5 +14,5 @@ while(a < 10):
         
     if(a == 7):
         continue
-    print("a = {0} ".format(a));
+    print("a = {0} ".format(a))
     
